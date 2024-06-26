@@ -1,0 +1,2604 @@
+[
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "enlistment",
+        "model": "class"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "enlistment",
+        "model": "classmodel"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "enlistment",
+        "model": "curriculumclasses"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "enlistment",
+        "model": "department"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "enlistment",
+        "model": "ips"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "enlistment",
+        "model": "teacher"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "enlistment",
+        "model": "student"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "enlistment",
+        "model": "classlist"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "3hi084vp378pow80o6pjgahhuzztlb86",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAGsNO6dN8zNDAzSNVAUtqV8e7apAvd_vfef6kpbGuetibLNLO6KKtOv1sM9JCyA76HcquaalmXOepd0Qdteqwsz-vh_h3k0PK3dv0wkOUueC8pRUyIEQDOsSeHIsYDIxkDPhjvKFlHAhEMinFd8sTq_QHk_jfs:1pllhz:ZcdIEf0E98zAAKes4Ueum31RsINbuBxL7iPTqJChmfM",
+        "expire_date": "2023-04-24T07:12:59.980Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "5w9qnkawwdztpefr6lvk6qwsuvgg9uov",
+    "fields": {
+        "session_data": ".eJxVjEEOgjAURO_StWlqf2l_XbrnDGR-WwQ1kFBYGe-uJCx0O--9eakO2zp0Wy1LN2Z1UaROv5sgPcq0g3zHdJt1mqd1GUXvij5o1e2cy_N6uH8HA-rwrUVCn_smOcrFehhjAliAxgDM5RxyiuIdcRTrxTInBlEEApEzROr9AQU8N_U:1plqi7:t6AW0SJEO6GhSi8Jp0_WLDpN66xFUU6Dv0y3hc83Xgc",
+        "expire_date": "2023-04-24T12:33:27.213Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "l3wof816vl4he0ebghov9wbd4sju9gjv",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAUBe_C2hCBDwWX7j0D-cBTqoYmpV0Z765NutDtm5n3EpHXpca1Y45jESehxOF3S5wfaBsod263SeapLfOY5KbInXZ5mQqe5939O6jc67dOIKUIyZg8aHYpWPLZXANbTaWQI1gNF1y2pDz04BU0kI7WGEBZEu8P2w03dQ:1pffQ8:ZfWwrP-_L_9GEkh9Dk6iotdC-mCJpLpoa4ybMKz4jYc",
+        "expire_date": "2023-04-07T11:17:20.413Z"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 1,
+    "fields": {
+        "department_name": "ALL INTERDISCIPLINARY ELECTIVES"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 2,
+    "fields": {
+        "department_name": "ATENEO TEACHER CENTER"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 3,
+    "fields": {
+        "department_name": "BIOLOGY"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 4,
+    "fields": {
+        "department_name": "CHEMISTRY"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 5,
+    "fields": {
+        "department_name": "CHINESE STUDIES PROGRAM"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 6,
+    "fields": {
+        "department_name": "CITIZENS MILITARY TRAINING"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 7,
+    "fields": {
+        "department_name": "COMMUNICATION"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 8,
+    "fields": {
+        "department_name": "DEPARTMENT OF CATHOLIC EDUCATION PHILOSOPHY AND PRACTICE"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 9,
+    "fields": {
+        "department_name": "DEPARTMENT OF CURRICULUM, PEDAGOGY AND ASSESSMENT"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 10,
+    "fields": {
+        "department_name": "DEPARTMENT OF EDUCATIONAL LEADERSHIP AND MANAGEMENT"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 11,
+    "fields": {
+        "department_name": "DEVELOPMENT STUDIES PROGRAM"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 12,
+    "fields": {
+        "department_name": "ECONOMICS"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 13,
+    "fields": {
+        "department_name": "EDUCATION"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 14,
+    "fields": {
+        "department_name": "ELECTRONICS, COMPUTER and COMMUNICATIONS ENG."
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 15,
+    "fields": {
+        "department_name": "ENGLISH"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 16,
+    "fields": {
+        "department_name": "ENVIRONMENTAL SCIENCE"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 17,
+    "fields": {
+        "department_name": "EUROPEAN STUDIES"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 18,
+    "fields": {
+        "department_name": "FILIPINO"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 19,
+    "fields": {
+        "department_name": "FINANCE AND ACCOUNTING"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 20,
+    "fields": {
+        "department_name": "FINE ARTS"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 21,
+    "fields": {
+        "department_name": "HEALTH SCIENCES PROGRAM"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 22,
+    "fields": {
+        "department_name": "HISTORY"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 23,
+    "fields": {
+        "department_name": "HUMANITIES"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 24,
+    "fields": {
+        "department_name": "INFORMATION SYSTEMS AND COMPUTER SCIENCE"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 25,
+    "fields": {
+        "department_name": "INSTITUTE FOR THE SCIENCE AND ART OF LEARNING AND TEACHING (SALT)"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 26,
+    "fields": {
+        "department_name": "INTAC"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 27,
+    "fields": {
+        "department_name": "INTERDISCIPLINARY STUDIES DEPARTMENT"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 28,
+    "fields": {
+        "department_name": "JAPANESE STUDIES PROGRAM"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 29,
+    "fields": {
+        "department_name": "KOREAN STUDIES PROGRAM"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 30,
+    "fields": {
+        "department_name": "LEADERSHIP AND STRATEGY"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 31,
+    "fields": {
+        "department_name": "MANAGEMENT"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 32,
+    "fields": {
+        "department_name": "MANAGEMENT ENGINEERING"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 33,
+    "fields": {
+        "department_name": "MARKETING AND LAW"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 34,
+    "fields": {
+        "department_name": "MATHEMATICS"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 35,
+    "fields": {
+        "department_name": "MODERN LANGUAGES"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 36,
+    "fields": {
+        "department_name": "NATIONAL SERVICE TRAINING PROGRAM (ADAST)"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 37,
+    "fields": {
+        "department_name": "NATIONAL SERVICE TRAINING PROGRAM (OSCI)"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 38,
+    "fields": {
+        "department_name": "NSTP"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 39,
+    "fields": {
+        "department_name": "OFFICE OF SOCIAL CONCERN AND INVOLVEMENT"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 40,
+    "fields": {
+        "department_name": "PASTORAL STUDIES"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 41,
+    "fields": {
+        "department_name": "PATHWAYS TO HIGHER EDUCATION"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 42,
+    "fields": {
+        "department_name": "PHILOSOPHY"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 43,
+    "fields": {
+        "department_name": "PHYSICAL EDUCATION"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 44,
+    "fields": {
+        "department_name": "PHYSICS"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 45,
+    "fields": {
+        "department_name": "POLITICAL SCIENCE"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 46,
+    "fields": {
+        "department_name": "PSYCHOLOGY"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 47,
+    "fields": {
+        "department_name": "QUANTITATIVE METHODS AND INFORMATION TECHNOLOGY"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 48,
+    "fields": {
+        "department_name": "SCIENCE BLOCK"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 49,
+    "fields": {
+        "department_name": "SOCIAL SCIENCES"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 50,
+    "fields": {
+        "department_name": "SOCIOLOGY/ANTHROPOLOGY"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 51,
+    "fields": {
+        "department_name": "THEOLOGY"
+    }
+},
+{
+    "model": "enlistment.department",
+    "pk": 52,
+    "fields": {
+        "department_name": "THEOLOGY AND MINISTRY PROGRAM"
+    }
+},
+{
+    "model": "enlistment.teacher",
+    "pk": 100,
+    "fields": {
+        "first_name": "Neil Daniel",
+        "last_name": "Bautista",
+        "department_id": 24
+    }
+},
+{
+    "model": "enlistment.teacher",
+    "pk": 101,
+    "fields": {
+        "first_name": "Edsel",
+        "last_name": "Beja",
+        "department_id": 24
+    }
+},
+{
+    "model": "enlistment.teacher",
+    "pk": 102,
+    "fields": {
+        "first_name": "Giovanni Angelo",
+        "last_name": "Balaguer",
+        "department_id": 24
+    }
+},
+{
+    "model": "enlistment.teacher",
+    "pk": 103,
+    "fields": {
+        "first_name": "Patricia Angela",
+        "last_name": "Abu",
+        "department_id": 24
+    }
+},
+{
+    "model": "enlistment.teacher",
+    "pk": 104,
+    "fields": {
+        "first_name": "Luis Rainier",
+        "last_name": "Ligunas",
+        "department_id": 24
+    }
+},
+{
+    "model": "enlistment.teacher",
+    "pk": 105,
+    "fields": {
+        "first_name": "Jeffrey",
+        "last_name": "Jongko",
+        "department_id": 24
+    }
+},
+{
+    "model": "enlistment.teacher",
+    "pk": 106,
+    "fields": {
+        "first_name": "Luis Gabriel",
+        "last_name": "Cajucom",
+        "department_id": 24
+    }
+},
+{
+    "model": "enlistment.teacher",
+    "pk": 107,
+    "fields": {
+        "first_name": "Lara Katrina",
+        "last_name": "Mendoza",
+        "department_id": 49
+    }
+},
+{
+    "model": "enlistment.teacher",
+    "pk": 108,
+    "fields": {
+        "first_name": "Dennis",
+        "last_name": "Temporal",
+        "department_id": 42
+    }
+},
+{
+    "model": "enlistment.teacher",
+    "pk": 109,
+    "fields": {
+        "first_name": "Remmon",
+        "last_name": "Barbaza",
+        "department_id": 42
+    }
+},
+{
+    "model": "enlistment.teacher",
+    "pk": 110,
+    "fields": {
+        "first_name": "Eric Cesar Jr.",
+        "last_name": "Vidal",
+        "department_id": 24
+    }
+},
+{
+    "model": "enlistment.teacher",
+    "pk": 111,
+    "fields": {
+        "first_name": "Miguel Zenon Nicanor",
+        "last_name": "Saavedra",
+        "department_id": 24
+    }
+},
+{
+    "model": "enlistment.classmodel",
+    "pk": "CSCI 181.03",
+    "fields": {
+        "class_name": "Special Topics in Software Engineering: iOS Development",
+        "units": 3,
+        "prerequisite": null,
+        "is_major": true
+    }
+},
+{
+    "model": "enlistment.classmodel",
+    "pk": "CSCI 42",
+    "fields": {
+        "class_name": "Introduction to Software Engineering",
+        "units": 3,
+        "prerequisite": null,
+        "is_major": true
+    }
+},
+{
+    "model": "enlistment.classmodel",
+    "pk": "CSCI 51.01",
+    "fields": {
+        "class_name": "Operating Systems Lecture",
+        "units": 3,
+        "prerequisite": null,
+        "is_major": true
+    }
+},
+{
+    "model": "enlistment.classmodel",
+    "pk": "CSCI 51.02",
+    "fields": {
+        "class_name": "Operating Systems Laboratory",
+        "units": 3,
+        "prerequisite": null,
+        "is_major": true
+    }
+},
+{
+    "model": "enlistment.classmodel",
+    "pk": "GDEV 30",
+    "fields": {
+        "class_name": "Computer Graphics Programming",
+        "units": 3,
+        "prerequisite": null,
+        "is_major": false
+    }
+},
+{
+    "model": "enlistment.classmodel",
+    "pk": "ISCS 30.23",
+    "fields": {
+        "class_name": "Guided Studies In Containers I: Containerizing App",
+        "units": 1,
+        "prerequisite": null,
+        "is_major": false
+    }
+},
+{
+    "model": "enlistment.classmodel",
+    "pk": "PHILO 13",
+    "fields": {
+        "class_name": "Ethics",
+        "units": 3,
+        "prerequisite": null,
+        "is_major": false
+    }
+},
+{
+    "model": "enlistment.classmodel",
+    "pk": "SocSc 13",
+    "fields": {
+        "class_name": "The Economy, Society, and Sustainable Development",
+        "units": 3,
+        "prerequisite": null,
+        "is_major": false
+    }
+},
+{
+    "model": "enlistment.ips",
+    "pk": "BS CS",
+    "fields": {
+        "course_name": "BACHELOR OF SCIENCE IN COMPUTER SCIENCE"
+    }
+},
+{
+    "model": "enlistment.ips",
+    "pk": "BS CS-DGDD",
+    "fields": {
+        "course_name": "BACHELOR OF SCIENCE IN COMPUTER SCIENCE - BACHELOR OF SCIENCE IN DIGITAL GAME DESIGN AND DEVELOPMENT"
+    }
+},
+{
+    "model": "enlistment.ips",
+    "pk": "BSMS CS",
+    "fields": {
+        "course_name": "BACHELOR OF SCIENCE IN COMPUTER SCIENCE"
+    }
+},
+{
+    "model": "enlistment.curriculumclasses",
+    "pk": 1,
+    "fields": {
+        "course_code": "BS CS",
+        "class_code": "CSCI 42",
+        "year": 3,
+        "sem": 2
+    }
+},
+{
+    "model": "enlistment.curriculumclasses",
+    "pk": 2,
+    "fields": {
+        "course_code": "BS CS",
+        "class_code": "CSCI 51.01",
+        "year": 3,
+        "sem": 2
+    }
+},
+{
+    "model": "enlistment.curriculumclasses",
+    "pk": 3,
+    "fields": {
+        "course_code": "BS CS",
+        "class_code": "CSCI 51.02",
+        "year": 3,
+        "sem": 2
+    }
+},
+{
+    "model": "enlistment.curriculumclasses",
+    "pk": 4,
+    "fields": {
+        "course_code": "BSMS CS",
+        "class_code": "CSCI 42",
+        "year": 3,
+        "sem": 2
+    }
+},
+{
+    "model": "enlistment.curriculumclasses",
+    "pk": 5,
+    "fields": {
+        "course_code": "BSMS CS",
+        "class_code": "CSCI 51.01",
+        "year": 3,
+        "sem": 2
+    }
+},
+{
+    "model": "enlistment.curriculumclasses",
+    "pk": 6,
+    "fields": {
+        "course_code": "BSMS CS",
+        "class_code": "CSCI 51.02",
+        "year": 3,
+        "sem": 2
+    }
+},
+{
+    "model": "enlistment.curriculumclasses",
+    "pk": 7,
+    "fields": {
+        "course_code": "BS CS-DGDD",
+        "class_code": "CSCI 42",
+        "year": 3,
+        "sem": 2
+    }
+},
+{
+    "model": "enlistment.curriculumclasses",
+    "pk": 8,
+    "fields": {
+        "course_code": "BS CS-DGDD",
+        "class_code": "CSCI 51.01",
+        "year": 3,
+        "sem": 2
+    }
+},
+{
+    "model": "enlistment.curriculumclasses",
+    "pk": 9,
+    "fields": {
+        "course_code": "BS CS-DGDD",
+        "class_code": "CSCI 51.02",
+        "year": 3,
+        "sem": 2
+    }
+},
+{
+    "model": "enlistment.curriculumclasses",
+    "pk": 10,
+    "fields": {
+        "course_code": "BS CS-DGDD",
+        "class_code": "GDEV 30",
+        "year": 3,
+        "sem": 2
+    }
+},
+{
+    "model": "enlistment.student",
+    "pk": 200001,
+    "fields": {
+        "first_name": "Elmo Lenard",
+        "last_name": "Gumapos",
+        "course_code": "BS CS-DGDD",
+        "birthday": "2002-01-01",
+        "age": 21,
+        "year_level": 3,
+        "is_regular": true,
+        "is_enlisted": true,
+        "password": "200001"
+    }
+},
+{
+    "model": "enlistment.student",
+    "pk": 200002,
+    "fields": {
+        "first_name": "Mario Franco",
+        "last_name": "Deuna",
+        "course_code": "BS CS",
+        "birthday": "2002-01-01",
+        "age": 21,
+        "year_level": 3,
+        "is_regular": true,
+        "is_enlisted": true,
+        "password": "200002"
+    }
+},
+{
+    "model": "enlistment.student",
+    "pk": 200003,
+    "fields": {
+        "first_name": "Luis Mikhael",
+        "last_name": "Gonzalez",
+        "course_code": "BS CS",
+        "birthday": "2002-01-01",
+        "age": 21,
+        "year_level": 3,
+        "is_regular": true,
+        "is_enlisted": false,
+        "password": "200003"
+    }
+},
+{
+    "model": "enlistment.student",
+    "pk": 200004,
+    "fields": {
+        "first_name": "Joseph Raymund",
+        "last_name": "Izon",
+        "course_code": "BS CS",
+        "birthday": "2002-01-01",
+        "age": 21,
+        "year_level": 3,
+        "is_regular": true,
+        "is_enlisted": false,
+        "password": "200004"
+    }
+},
+{
+    "model": "enlistment.student",
+    "pk": 200005,
+    "fields": {
+        "first_name": "Chino Gabriel",
+        "last_name": "Tesoro",
+        "course_code": "BS CS",
+        "birthday": "2002-01-01",
+        "age": 21,
+        "year_level": 3,
+        "is_regular": true,
+        "is_enlisted": false,
+        "password": "200005"
+    }
+},
+{
+    "model": "enlistment.student",
+    "pk": 200715,
+    "fields": {
+        "first_name": "Mikael Giannes",
+        "last_name": "Bernardino",
+        "course_code": "BSMS CS",
+        "birthday": "2001-06-15",
+        "age": 21,
+        "year_level": 3,
+        "is_regular": true,
+        "is_enlisted": true,
+        "password": "200715"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 1,
+    "fields": {
+        "class_code": "CSCI 42",
+        "class_section": "J",
+        "room": "F-204",
+        "max_slots": 25,
+        "available_slots": 7,
+        "instructor_id": 100,
+        "department_id": 24,
+        "day_of_week": "TF",
+        "start_time": "08:00:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 2,
+    "fields": {
+        "class_code": "CSCI 51.01",
+        "class_section": "A",
+        "room": "F-227",
+        "max_slots": 25,
+        "available_slots": 20,
+        "instructor_id": 102,
+        "department_id": 24,
+        "day_of_week": "MTh",
+        "start_time": "08:00:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 3,
+    "fields": {
+        "class_code": "CSCI 51.01",
+        "class_section": "B1",
+        "room": "F-227",
+        "max_slots": 25,
+        "available_slots": 19,
+        "instructor_id": 102,
+        "department_id": 24,
+        "day_of_week": "MTh",
+        "start_time": "09:30:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 4,
+    "fields": {
+        "class_code": "CSCI 51.02",
+        "class_section": "E",
+        "room": "F-227",
+        "max_slots": 25,
+        "available_slots": 23,
+        "instructor_id": 103,
+        "department_id": 24,
+        "day_of_week": "MTh",
+        "start_time": "14:00:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 5,
+    "fields": {
+        "class_code": "CSCI 51.02",
+        "class_section": "D",
+        "room": "F-227",
+        "max_slots": 1,
+        "available_slots": 0,
+        "instructor_id": 103,
+        "department_id": 24,
+        "day_of_week": "MTh",
+        "start_time": "12:30:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 6,
+    "fields": {
+        "class_code": "CSCI 181.03",
+        "class_section": "S",
+        "room": "CTC 201B",
+        "max_slots": 25,
+        "available_slots": 24,
+        "instructor_id": 104,
+        "department_id": 24,
+        "day_of_week": "W",
+        "start_time": "09:00:00",
+        "minutes_per_session": 180,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 7,
+    "fields": {
+        "class_code": "CSCI 42",
+        "class_section": "N",
+        "room": "F-204",
+        "max_slots": 30,
+        "available_slots": 28,
+        "instructor_id": 105,
+        "department_id": 24,
+        "day_of_week": "TF",
+        "start_time": "14:00:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 8,
+    "fields": {
+        "class_code": "CSCI 42",
+        "class_section": "O",
+        "room": "F-204",
+        "max_slots": 30,
+        "available_slots": 30,
+        "instructor_id": 105,
+        "department_id": 24,
+        "day_of_week": "TF",
+        "start_time": "15:30:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 9,
+    "fields": {
+        "class_code": "CSCI 51.01",
+        "class_section": "B2",
+        "room": "CTC 214",
+        "max_slots": 30,
+        "available_slots": 30,
+        "instructor_id": 106,
+        "department_id": 24,
+        "day_of_week": "MTh",
+        "start_time": "09:30:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 10,
+    "fields": {
+        "class_code": "CSCI 51.02",
+        "class_section": "F",
+        "room": "F-227",
+        "max_slots": 30,
+        "available_slots": 30,
+        "instructor_id": 106,
+        "department_id": 24,
+        "day_of_week": "MTh",
+        "start_time": "15:30:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 11,
+    "fields": {
+        "class_code": "SocSc 13",
+        "class_section": "CS-D",
+        "room": "TBA",
+        "max_slots": 22,
+        "available_slots": 22,
+        "instructor_id": 101,
+        "department_id": 49,
+        "day_of_week": "MTh",
+        "start_time": "12:30:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 12,
+    "fields": {
+        "class_code": "SocSc 13",
+        "class_section": "CS-G",
+        "room": "TBA",
+        "max_slots": 22,
+        "available_slots": 22,
+        "instructor_id": 101,
+        "department_id": 49,
+        "day_of_week": "MTh",
+        "start_time": "17:00:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 13,
+    "fields": {
+        "class_code": "SocSc 13",
+        "class_section": "CS-H",
+        "room": "TBA",
+        "max_slots": 22,
+        "available_slots": 22,
+        "instructor_id": 101,
+        "department_id": 49,
+        "day_of_week": "MTh",
+        "start_time": "18:30:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 14,
+    "fields": {
+        "class_code": "SocSc 13",
+        "class_section": "CS-C",
+        "room": "F-116",
+        "max_slots": 22,
+        "available_slots": 22,
+        "instructor_id": 107,
+        "department_id": 49,
+        "day_of_week": "MTh",
+        "start_time": "11:00:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 15,
+    "fields": {
+        "class_code": "PHILO 13",
+        "class_section": "Q9",
+        "room": "TBA",
+        "max_slots": 30,
+        "available_slots": 30,
+        "instructor_id": 108,
+        "department_id": 42,
+        "day_of_week": "TF",
+        "start_time": "18:30:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 16,
+    "fields": {
+        "class_code": "PHILO 13",
+        "class_section": "H9",
+        "room": "TBA",
+        "max_slots": 30,
+        "available_slots": 30,
+        "instructor_id": 108,
+        "department_id": 42,
+        "day_of_week": "MTh",
+        "start_time": "18:30:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 17,
+    "fields": {
+        "class_code": "PHILO 13",
+        "class_section": "L",
+        "room": "CTC 104",
+        "max_slots": 30,
+        "available_slots": 30,
+        "instructor_id": 109,
+        "department_id": 42,
+        "day_of_week": "TF",
+        "start_time": "11:00:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "F"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 18,
+    "fields": {
+        "class_code": "GDEV 30",
+        "class_section": "E",
+        "room": "CTC 112",
+        "max_slots": 35,
+        "available_slots": 35,
+        "instructor_id": 110,
+        "department_id": 24,
+        "day_of_week": "MTh",
+        "start_time": "14:00:00",
+        "minutes_per_session": 90,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.class",
+    "pk": 19,
+    "fields": {
+        "class_code": "ISCS 30.23",
+        "class_section": "C1",
+        "room": "TBA",
+        "max_slots": 30,
+        "available_slots": 30,
+        "instructor_id": 111,
+        "department_id": 24,
+        "day_of_week": "MTh",
+        "start_time": "11:00:00",
+        "minutes_per_session": 60,
+        "school_year": "22",
+        "sem": 2,
+        "language": "E"
+    }
+},
+{
+    "model": "enlistment.classlist",
+    "pk": 1,
+    "fields": {
+        "class_id": 1,
+        "student_id": 200001,
+        "is_void": false
+    }
+},
+{
+    "model": "enlistment.classlist",
+    "pk": 2,
+    "fields": {
+        "class_id": 2,
+        "student_id": 200001,
+        "is_void": false
+    }
+},
+{
+    "model": "enlistment.classlist",
+    "pk": 3,
+    "fields": {
+        "class_id": 4,
+        "student_id": 200001,
+        "is_void": false
+    }
+},
+{
+    "model": "enlistment.classlist",
+    "pk": 4,
+    "fields": {
+        "class_id": 1,
+        "student_id": 200715,
+        "is_void": false
+    }
+},
+{
+    "model": "enlistment.classlist",
+    "pk": 5,
+    "fields": {
+        "class_id": 2,
+        "student_id": 200715,
+        "is_void": false
+    }
+},
+{
+    "model": "enlistment.classlist",
+    "pk": 6,
+    "fields": {
+        "class_id": 4,
+        "student_id": 200715,
+        "is_void": false
+    }
+},
+{
+    "model": "enlistment.classlist",
+    "pk": 7,
+    "fields": {
+        "class_id": 6,
+        "student_id": 200715,
+        "is_void": false
+    }
+},
+{
+    "model": "enlistment.classlist",
+    "pk": 8,
+    "fields": {
+        "class_id": 5,
+        "student_id": 200002,
+        "is_void": false
+    }
+},
+{
+    "model": "enlistment.classlist",
+    "pk": 9,
+    "fields": {
+        "class_id": 3,
+        "student_id": 200002,
+        "is_void": false
+    }
+},
+{
+    "model": "enlistment.classlist",
+    "pk": 10,
+    "fields": {
+        "class_id": 3,
+        "student_id": 200003,
+        "is_void": false
+    }
+},
+{
+    "model": "enlistment.classlist",
+    "pk": 11,
+    "fields": {
+        "class_id": 3,
+        "student_id": 200003,
+        "is_void": false
+    }
+},
+{
+    "model": "enlistment.classlist",
+    "pk": 34,
+    "fields": {
+        "class_id": 7,
+        "student_id": 200004,
+        "is_void": false
+    }
+},
+{
+    "model": "enlistment.classlist",
+    "pk": 35,
+    "fields": {
+        "class_id": 7,
+        "student_id": 200004,
+        "is_void": false
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$390000$44ptdaggVcadkVEntb1IJu$xj8k/LDEO4J9YDeVejboxFMa0MkErj4sqVFIswxc1Co=",
+        "last_login": "2023-03-24T11:17:20.398Z",
+        "is_superuser": true,
+        "username": "gian",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-03-24T11:17:08.490Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$390000$UXK0PYvFBY9RQ53Q61C5Gy$Yog7EW3DFHmv8q+QdxabgTQy/ogD8nUMZbvlrzAzcGY=",
+        "last_login": "2023-04-10T07:12:59.963Z",
+        "is_superuser": true,
+        "username": "elmo",
+        "first_name": "",
+        "last_name": "",
+        "email": "elmo.gumpos@obf.ateneo.edu",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-04-10T07:12:43.885Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$390000$9hJk4kWxYaHqVsNQQBmcRv$9UgTTxsX5DBEsJge5zwN3eBWy1UgeIHo/41SUAGsUvc=",
+        "last_login": "2023-04-10T12:33:27.076Z",
+        "is_superuser": true,
+        "username": "josep",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-04-10T12:33:19.241Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-04-10T07:14:13.186Z",
+        "user": [
+            "elmo"
+        ],
+        "content_type": [
+            "enlistment",
+            "student"
+        ],
+        "object_id": "200001",
+        "object_repr": "Elmo Lenard Gumapos",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Password hash\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-04-10T07:55:32.649Z",
+        "user": [
+            "elmo"
+        ],
+        "content_type": [
+            "enlistment",
+            "student"
+        ],
+        "object_id": "200001",
+        "object_repr": "Elmo Lenard Gumapos",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-04-10T08:36:08.182Z",
+        "user": [
+            "elmo"
+        ],
+        "content_type": [
+            "enlistment",
+            "student"
+        ],
+        "object_id": "200001",
+        "object_repr": "Elmo Lenard Gumapos",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Password\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-04-10T08:36:26.748Z",
+        "user": [
+            "elmo"
+        ],
+        "content_type": [
+            "enlistment",
+            "student"
+        ],
+        "object_id": "200002",
+        "object_repr": "Mario Franco Deuna",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Password\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-04-10T08:36:35.692Z",
+        "user": [
+            "elmo"
+        ],
+        "content_type": [
+            "enlistment",
+            "student"
+        ],
+        "object_id": "200003",
+        "object_repr": "Luis Mikhael Gonzalez",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Password\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-04-10T08:36:43.916Z",
+        "user": [
+            "elmo"
+        ],
+        "content_type": [
+            "enlistment",
+            "student"
+        ],
+        "object_id": "200004",
+        "object_repr": "Joseph Raymund Izon",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Password\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-04-10T08:36:58.179Z",
+        "user": [
+            "elmo"
+        ],
+        "content_type": [
+            "enlistment",
+            "student"
+        ],
+        "object_id": "200005",
+        "object_repr": "Chino Gabriel Tesoro",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Password\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-04-10T08:37:05.923Z",
+        "user": [
+            "elmo"
+        ],
+        "content_type": [
+            "enlistment",
+            "student"
+        ],
+        "object_id": "200715",
+        "object_repr": "Mikael Giannes Bernardino",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Password\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-04-10T12:48:18.545Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "25",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-04-10T12:48:18.697Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "24",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-04-10T12:48:18.814Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "23",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-04-10T12:48:18.931Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "22",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-04-10T12:48:19.047Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "21",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-04-10T12:48:19.164Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "20",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-04-10T12:48:19.280Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "19",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2023-04-10T12:48:19.390Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "18",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2023-04-10T12:48:19.498Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "17",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2023-04-10T12:48:19.614Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "16",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2023-04-10T12:48:19.732Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "15",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2023-04-10T12:48:19.857Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "14",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2023-04-10T12:48:19.990Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "13",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2023-04-10T12:48:20.114Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "12",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2023-04-10T13:21:17.776Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "teacher"
+        ],
+        "object_id": "3",
+        "object_repr": "Jeffrey Jongko",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2023-04-10T13:21:45.565Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "teacher"
+        ],
+        "object_id": "105",
+        "object_repr": "Jeffrey Jongko",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Instructor id\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2023-04-10T13:21:55.662Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "teacher"
+        ],
+        "object_id": "3",
+        "object_repr": "Jeffrey Jongko",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2023-04-10T13:21:58.355Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "teacher"
+        ],
+        "object_id": "105",
+        "object_repr": "Jeffrey Jongko",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2023-04-10T13:23:10.941Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "7",
+        "object_repr": "CSCI 42 - N",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2023-04-10T13:23:20.497Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "1",
+        "object_repr": "CSCI 42 - J",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2023-04-10T13:23:26.607Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "7",
+        "object_repr": "CSCI 42 - N",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2023-04-10T13:24:40.225Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "8",
+        "object_repr": "CSCI 42 - O",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2023-04-10T13:24:47.537Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "5",
+        "object_repr": "CSCI 51.02 - D",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2023-04-10T13:24:55.758Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "1",
+        "object_repr": "CSCI 42 - J",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2023-04-10T13:26:24.420Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "33",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2023-04-10T13:26:24.808Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "32",
+        "object_repr": "Izon added to CSCI 51.01 - B1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2023-04-10T13:26:24.937Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "31",
+        "object_repr": "Izon added to CSCI 51.01 - A",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2023-04-10T13:26:25.054Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "30",
+        "object_repr": "Izon added to CSCI 42 - J",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2023-04-10T13:26:25.180Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "29",
+        "object_repr": "Izon added to CSCI 51.01 - A",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2023-04-10T13:26:25.303Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "28",
+        "object_repr": "Izon added to CSCI 51.01 - B1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2023-04-10T13:26:25.429Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "27",
+        "object_repr": "Izon added to CSCI 51.01 - B1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2023-04-10T13:26:25.545Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classlist"
+        ],
+        "object_id": "26",
+        "object_repr": "Izon added to CSCI 51.01 - A",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2023-04-10T13:31:33.624Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "teacher"
+        ],
+        "object_id": "106",
+        "object_repr": "Luis Gabriel Cajucom",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2023-04-10T13:32:06.564Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "9",
+        "object_repr": "CSCI 51.01 - B2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2023-04-10T13:32:15.295Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "teacher"
+        ],
+        "object_id": "106",
+        "object_repr": "Luis Gabriel Cajucom",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2023-04-10T13:33:31.196Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "10",
+        "object_repr": "CSCI 51.02 - F",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2023-04-10T13:38:47.233Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classmodel"
+        ],
+        "object_id": "SocSc 13",
+        "object_repr": "SocSc 13",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2023-04-10T13:39:41.227Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "11",
+        "object_repr": "SocSc 13 - CS-D",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2023-04-10T13:41:03.387Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "12",
+        "object_repr": "SocSc 13 - CS-G",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2023-04-10T13:41:55.892Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "department"
+        ],
+        "object_id": "50",
+        "object_repr": "SOCIOLOGY/ANTHROPOLOGY",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Department name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2023-04-10T13:42:02.495Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "12",
+        "object_repr": "SocSc 13 - CS-G",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2023-04-10T13:42:48.665Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "13",
+        "object_repr": "SocSc 13 - CS-H",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2023-04-10T13:43:52.545Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "teacher"
+        ],
+        "object_id": "107",
+        "object_repr": "Lara Katrina Mendoza",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2023-04-10T13:44:11.859Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "14",
+        "object_repr": "SocSc 13 - CS-C",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2023-04-10T14:05:10.217Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classmodel"
+        ],
+        "object_id": "PHILO 13",
+        "object_repr": "PHILO 13",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2023-04-10T14:05:41.676Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "teacher"
+        ],
+        "object_id": "108",
+        "object_repr": "Dennis Temporal",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2023-04-10T14:06:19.780Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "15",
+        "object_repr": "PHILO 13 - Q9",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2023-04-10T14:07:15.928Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "16",
+        "object_repr": "PHILO 13 - H9",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+        "action_time": "2023-04-10T14:09:44.642Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "teacher"
+        ],
+        "object_id": "109",
+        "object_repr": "Remmon Barbaza",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+        "action_time": "2023-04-10T14:10:01.916Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "17",
+        "object_repr": "PHILO 13 - L",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+        "action_time": "2023-04-10T14:12:19.409Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classmodel"
+        ],
+        "object_id": "GDEV 30",
+        "object_repr": "GDEV 30",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+        "action_time": "2023-04-10T14:12:56.160Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "teacher"
+        ],
+        "object_id": "110",
+        "object_repr": "Eric Cesar Jr. Vidal",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+        "action_time": "2023-04-10T14:13:27.386Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "18",
+        "object_repr": "GDEV 30 - E",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+        "action_time": "2023-04-10T14:14:24.174Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "classmodel"
+        ],
+        "object_id": "ISCS 30.23",
+        "object_repr": "ISCS 30.23",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+        "action_time": "2023-04-10T14:14:57.819Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "teacher"
+        ],
+        "object_id": "111",
+        "object_repr": "Miguel Zenon Nicanor Saavedra",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+        "action_time": "2023-04-10T14:15:14.337Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "class"
+        ],
+        "object_id": "19",
+        "object_repr": "ISCS 30.23 - C1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+        "action_time": "2023-04-10T14:16:13.987Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "curriculumclasses"
+        ],
+        "object_id": "10",
+        "object_repr": "GDEV 30 is added to BS CS-DGDD",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+        "action_time": "2023-04-10T14:16:20.660Z",
+        "user": [
+            "josep"
+        ],
+        "content_type": [
+            "enlistment",
+            "curriculumclasses"
+        ],
+        "object_id": "9",
+        "object_repr": "CSCI 51.02 is added to BS CS-DGDD",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+}
+]
