@@ -11,5 +11,4 @@
 
 ## Screenshots
 ![login](screenshots/Screenshot1.png)
-![Enlistment](screenshots/Screenshot2.png)
 ![IPS](screenshots/Screenshot3.png)
